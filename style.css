@@ -1,0 +1,24 @@
+body{
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+h3{
+    font-size: 22px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+
+/*table{
+    color: white;
+    font-size: 15px;
+   
+    color: black;
+    border-collapse: collapse;
+    border: 2px solid navy;
+}*/
+
+table.inner{
+    border: 0px;
+}
